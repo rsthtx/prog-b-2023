@@ -16,10 +16,8 @@
 - [Malthe A - maltheaa](https://maltheaa.github.io/) ([source](https://github.com/maltheaa/maltheaa.github.io))
 - [Malthe F - g2esport11](https://g2esport11.github.io/) ([source](https://github.com/g2esport11/g2esport11.github.io))
 - [Melanie - mwelas](https://mwelas.github.io/) ([source](https://github.com/mwelas/mwelas.github.io))
+- [Oscar - oscarb993](https://oscarb993.github.io/) ([source](https://github.com/oscarb993/oscarb993.github.io))
 - [Rasmus - rasm726s](https://rasm726s.github.io/) ([source](https://github.com/rasm726s/rasm726s.github.io))
 - [Sander - sand6968](https://sand6968.github.io/) ([source](https://github.com/sand6968/sand6968.github.io))
 - [Sejr - sejr12](https://sejr12.github.io/) ([source](https://github.com/sejr12/sejr12.github.io))
 - [Tjalfe - tjalfeprogrammering](https://tjalfeprogrammering.github.io/) ([source](https://github.com/tjalfeprogrammering/tjalfeprogrammering.github.io))
-
-### Mangler
-- [Oscar - USER](https://USER.github.io/) ([source](https://github.com/USER/USER.github.io))
