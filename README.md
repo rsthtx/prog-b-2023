@@ -2,7 +2,7 @@
 
 ## HTML basics
 - [HTML intro Demo](html-demo/)
-
+- [Grid layout Demo](grid-css-demo/)
 
 ## Deltagere
 
