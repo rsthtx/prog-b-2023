@@ -2,9 +2,11 @@
 
 Julekalender for softwareudviklere.
 
-- [Advent of Code](https://adventofcode.com/)
+- [Advent of Code 2023](https://adventofcode.com/2023)
 
 Her er de første låger fra sidste års julekalender, så der er lidt at fordrive tiden med, mens vi venter i spænding på 1. december ;-)
+
+### [Advent of code 2022](https://adventofcode.com/2022)
 
 - [Første låge](https://adventofcode.com/2022/day/1)
 - [Anden låge](https://adventofcode.com/2022/day/2)

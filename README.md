@@ -6,7 +6,7 @@
 
 ## Julekalender
 
-- [Advent of Code 2023](aoc/)
+- [Advent of Code](aoc/)
 
 ## Deltagere
 
