@@ -8,6 +8,10 @@
 
 - [Advent of Code](aoc/)
 
+## Godot spil
+
+- [My first script demo](godot-demo/my-first-script/builds/web)
+
 ## Deltagere
 
 - [Allan - allanracer](https://allanracer.github.io/) ([source](https://github.com/allanracer/allanracer.github.io))
